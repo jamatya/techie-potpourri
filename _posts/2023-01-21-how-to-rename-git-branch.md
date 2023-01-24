@@ -5,7 +5,6 @@ categories: [git]
 tags: [git, how-to]
 author: jamatya
 ---
-
 1. Go to the current current
 
      ```javascript
