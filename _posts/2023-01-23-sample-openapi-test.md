@@ -3,8 +3,7 @@ title: Swagger Petstore - OpenAPI 3.0 v1.0.11
 language_tabs:
   - python: Python
   - ruby: Ruby
-toc_footers:
-  - <a href="http://swagger.io">Find out more about Swagger</a>
+toc_footers: []
 includes: []
 search: true
 highlight_theme: darkula
