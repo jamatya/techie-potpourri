@@ -1,5 +1,5 @@
 ---
-title: Swagger Petstore - OpenAPI 3.0 v1.0.11
+title: Swagger Petstore API - OpenAPI 3.0
 language_tabs:
   - python: Python
   - ruby: Ruby
@@ -8,7 +8,11 @@ includes: []
 search: true
 highlight_theme: darkula
 headingLevel: 2
-
+date: 2023-01-23 12:00:00
+categories: [api-testing]
+tags: [api-testing]
+author: jamatya
+version: v1.0.11
 ---
 
 <!-- Generator: Widdershins v4.0.1 -->
