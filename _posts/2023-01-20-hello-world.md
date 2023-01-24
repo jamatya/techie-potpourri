@@ -1,6 +1,6 @@
 ---
 title:  "A Hello World post"
-date: 2023-01-22 12:00:00
+date: 2023-01-20 12:00:00
 categories: [docs]
 tags: [docs]
 author: jamatya
