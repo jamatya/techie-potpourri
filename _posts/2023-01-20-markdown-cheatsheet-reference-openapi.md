@@ -1,5 +1,5 @@
 ---
-title:  "Markdown examples"
+title:  "Markdown Cheatsheet for Reference"
 date: 2023-01-20 12:00:00
 layout: post
 categories: [markdown]
