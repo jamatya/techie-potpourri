@@ -1,6 +1,6 @@
 ---
 title:  "How to set up github pages site"
-date: 2023-01-23 12:00:00
+date: 2023-02-23 12:00:00
 categories: [github-pages]
 tags: [github, how-to, jekyll]
 author: jamatya

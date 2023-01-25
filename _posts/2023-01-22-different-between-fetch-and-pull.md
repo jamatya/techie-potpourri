@@ -1,6 +1,6 @@
 ---
 title:  "git pull vs git fetch"
-date: 2023-01-22 12:00:00
+date: 2023-02-22 12:00:00
 categories: [git]
 tags: [git]
 author: jamatya

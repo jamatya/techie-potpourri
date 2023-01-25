@@ -1,6 +1,6 @@
 ---
 title:  "How to rename a git branch"
-date: 2023-01-21 12:00:00
+date: 2023-02-21 12:00:00
 categories: [git]
 tags: [git, how-to]
 author: jamatya
