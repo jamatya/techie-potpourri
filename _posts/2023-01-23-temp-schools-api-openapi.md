@@ -3,11 +3,10 @@ title: Temp Schools API - OpenAPI 3.0
 language_tabs:
   - python: Python
   - ruby: Ruby
+  - javascript: Javascript
 toc_footers: []
 includes: []
 search: true
-highlight_theme: darkula
-headingLevel: 2
 date: 2023-01-23 12:30:00
 categories: [api-testing]
 tags: [api-testing]
